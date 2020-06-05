@@ -5,13 +5,13 @@ Data Science Projects
 To automatically classify items in a school's budget, it makes it easier and faster for schools to compare their spending with other schools. The goal is to develop a supervised learning model that predicts the probability for each possible label by relying on some correctly labelled examples
 
 ********************************************************************************************************************
-Please click on the link here to download the steps involved in this case study [link](https://github.com/ambujbhargava/DataScience/tree/Project_SchoolBudgeting/Steps_In_Solving_CaseStudy.docx)
+## Please click on the link here to download the steps involved in this case study [link](https://github.com/ambujbhargava/DataScience/tree/Project_SchoolBudgeting/Steps_In_Solving_CaseStudy.docx)
 
-The above link will take you to the location to download the *.docx file for the steps.
+# The above link will take you to the location to download the *.docx file for the steps.
 
 ********************************************************************************************************************
 
-Please find the Steps images below:
+## Please find the Steps images below:
 
 
 ![image1](https://user-images.githubusercontent.com/20254170/83819000-157a3c80-a70c-11ea-8a6e-8c8a15e001e4.jpg)
