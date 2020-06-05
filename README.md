@@ -5,7 +5,7 @@ Bike Sharing dataset was from Kaggle.
 This problem was to combine historical usage patterns with weather data in order to forecast bike rental demand in the Capital Bikeshare program in Washington, D.C.
 
 *******************************************************************************************
-###Steps involved in doing EDA on the data
+## Steps involved in doing EDA on the data
 *******************************************************************************************
 
 ![image1](https://user-images.githubusercontent.com/20254170/83820851-1cf01480-a711-11ea-9b1a-84e6848cbeb0.jpg)
@@ -23,7 +23,7 @@ This problem was to combine historical usage patterns with weather data in order
 
 
 *******************************************************************************************
-###Steps invovled in applying the XGBoost Algorithm
+## Steps invovled in applying the XGBoost Algorithm
 *******************************************************************************************
 ![image13](https://user-images.githubusercontent.com/20254170/83823385-44e27680-a717-11ea-8e7f-1f5558edbe97.jpg)
 ![image14](https://user-images.githubusercontent.com/20254170/83823390-4744d080-a717-11ea-873b-cbcfa5e78c0c.jpg)
